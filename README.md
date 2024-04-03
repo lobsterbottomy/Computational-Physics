@@ -1,2 +1,2 @@
 # Computational-Physics
-Either exercises from my undergrad or personal projects in computational physics
+Either cleaned up exercises from my undergrad or personal projects in computational physics
